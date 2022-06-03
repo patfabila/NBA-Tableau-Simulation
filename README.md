@@ -6,4 +6,6 @@ I am an avid fan of NBA Basketball and would partake in fantasy leagues with my 
 
 I created a dashboard that allows users to create two hypothetical NBA teams with the standard PG, SG, SF, PF, and C positions and see the estimated fantasy score the lineup would produce. 
 
-Using a filter, users can swap players and the predicted score would change accordingly depending on that players stats. I used the standard formula 
+Using a filter, users can swap players on either Home or Away team and the predicted score would change accordingly depending on that players stats. Users can use this feature to compare the two opposing teams and their expected outputs. 
+
+I used the standard Yahoo Basketaball Fantasy formula (Point = 1pt, Rebound = 1.2pts, Assist = 1.5pts, Steal = 3pts, Block = 3pts, TO = -1pt) to calculate the point totals which can also easily be changed by editing the Team Score calculated field.
